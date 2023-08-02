@@ -1,14 +1,14 @@
 {
   "name": "angular-resize-event",
-  "version": "3.2.0",
+  "version": "16.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vdolek/angular-resize-event"
+    "url": "https://github.com/mytherf/angular-resize-event"
   },
-  "homepage": "https://github.com/vdolek/angular-resize-event#readme",
+  "homepage": "https://github.com/mytherf/angular-resize-event#readme",
   "author": {
-    "name": "Martin Volek",
-    "email": "martin@vdolek.cz"
+    "name": "mytherf",
+    "email": "mytherf@163.com"
   },
   "keywords": [
     "angular",
@@ -17,8 +17,8 @@
   ],
   "license": "MIT",
   "peerDependencies": {
-    "@angular/common": ">= 12.2.0 < 15",
-    "@angular/core": ">= 12.2.0 < 15"
+    "@angular/common": ">= 12.2.0",
+    "@angular/core": ">= 12.2.0s"
   },
   "dependencies": {
     "tslib": "^2.3.0"
