@@ -1,6 +1,6 @@
 {
-  "name": "angular-resize-event",
-  "version": "16.0.0",
+  "name": "@mytherf/angular-resize-event",
+  "version": "16.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/mytherf/angular-resize-event"

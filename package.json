@@ -1,11 +1,11 @@
 {
   "name": "@mytherf/angular-resize-event",
-  "version": "16.0.0",
+  "version": "16.0.2",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
-    "watch": "ng build --watch --configuration development",
+    "build": "ng build @mytherf/angular-resize-event --configuration production",
+    "watch": "ng build @mytherf/angular-resize-event --watch --configuration development",
     "test": "ng test",
     "postbuild": "cp README.md dist/angular-resize-event/README.md"
   },
